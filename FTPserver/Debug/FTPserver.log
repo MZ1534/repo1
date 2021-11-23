@@ -1,0 +1,4 @@
+﻿  ftpServer.c
+c:\users\zzz\desktop\ftp\ftpserver\ftpserver.c(68): warning C4133: “函数”: 从“sockaddr_in *”到“sockaddr *”的类型不兼容
+  FTPserver.vcxproj -> C:\Users\zzz\Desktop\FTP\Debug\FTPserver.exe
+  FTPserver.vcxproj -> C:\Users\zzz\Desktop\FTP\Debug\FTPserver.pdb (Partial PDB)
